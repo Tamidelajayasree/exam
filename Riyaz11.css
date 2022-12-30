@@ -1,0 +1,31 @@
+#btn1{
+    margin-right: 30px;
+    border: none;
+    padding:20px;
+    color: gray;
+}
+#btn2{
+    border: 1px solid black;
+    color: black;
+    margin-right: 30px;
+}
+#a1{
+    font-weight: bolder;
+}
+img{
+    float: right;
+}
+#h1{
+    font-size: 5vw;
+    padding-top: 200px;
+}
+#p1{
+    padding-top:30px;
+}
+#btn3{
+    background-color: black;
+}
+#con1{
+ margin-top: 50px;
+ margin-left: 9px;
+}
